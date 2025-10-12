@@ -3,7 +3,7 @@
     {
       "name": "Пример лаунчера 1",
       "url": "https://example1.com",
-      "start_date": "2025-01-15",
+      "start_date": "2024-10-01",
       "end_date": null,
       "status": "active",
       "description": "Пример активного лаунчера, использующего SphereWeb"
