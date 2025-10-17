@@ -288,6 +288,10 @@
     "plugin_date_end": "2025-09-19 02:59:00"
   },
   {
+    "domain": "death-throne.com",
+    "plugin_date_end": "2025-10-25 02:59:00"
+  },
+  {
     "domain": "devils-phoenix.ru",
     "plugin_date_end": "2025-02-13 02:59:00"
   },
@@ -761,7 +765,7 @@
   },
   {
     "domain": "l2quantum.com",
-    "plugin_date_end": "2025-06-05 02:59:00"
+    "plugin_date_end": "2025-11-08 02:59:00"
   },
   {
     "domain": "l2rehab.com",
@@ -1114,6 +1118,10 @@
   {
     "domain": "newcp.multireborn.club",
     "plugin_date_end": "2026-03-05 01:59:00"
+  },
+  {
+    "domain": "newserver.ru.swtest.ru",
+    "plugin_date_end": "2025-10-25 02:59:00"
   },
   {
     "domain": "nonamegame.net",
