@@ -40,6 +40,10 @@
     "plugin_date_end": "2025-02-20 02:59:00"
   },
   {
+    "domain": "account.l2erevos.eu",
+    "plugin_date_end": "2025-10-27 02:59:00"
+  },
+  {
     "domain": "account.l2memoria.com",
     "plugin_date_end": "2025-11-09 02:59:00"
   },
@@ -489,7 +493,7 @@
   },
   {
     "domain": "l2-agation.com",
-    "plugin_date_end": "2025-03-11 02:59:00"
+    "plugin_date_end": "2026-02-20 02:59:00"
   },
   {
     "domain": "l2-bg.ru",
@@ -1145,7 +1149,7 @@
   },
   {
     "domain": "oren.pw",
-    "plugin_date_end": "2025-11-17 02:59:00"
+    "plugin_date_end": "2025-11-07 02:59:00"
   },
   {
     "domain": "ovillage.ru",
@@ -1209,7 +1213,7 @@
   },
   {
     "domain": "rework.multeria.world",
-    "plugin_date_end": "2025-10-21 02:59:00"
+    "plugin_date_end": "2025-11-21 02:59:00"
   },
   {
     "domain": "risen-worlds.net",
