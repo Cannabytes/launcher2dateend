@@ -804,6 +804,10 @@
     "plugin_date_end": "2029-02-15 02:59:00"
   },
   {
+    "domain": "l2templers.com",
+    "plugin_date_end": "2025-10-30 02:59:00"
+  },
+  {
     "domain": "l2tera.com",
     "plugin_date_end": "2025-09-01 02:59:00"
   },
@@ -1304,6 +1308,10 @@
     "plugin_date_end": "2024-11-02 02:59:00"
   },
   {
+    "domain": "test.la2felix.fun",
+    "plugin_date_end": "2025-10-30 02:59:00"
+  },
+  {
     "domain": "test.lineage2.kyiv.ua",
     "plugin_date_end": "2024-10-20 12:00:00"
   },
@@ -1338,6 +1346,10 @@
   {
     "domain": "waragey.ru",
     "plugin_date_end": "2025-04-27 02:59:00"
+  },
+  {
+    "domain": "warcult.org",
+    "plugin_date_end": "2025-10-28 02:59:00"
   },
   {
     "domain": "wargame.ws",
