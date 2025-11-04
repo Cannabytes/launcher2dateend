@@ -384,6 +384,10 @@
     "plugin_date_end": "2025-07-31 02:59:00"
   },
   {
+    "domain": "fluxzone-main.com",
+    "plugin_date_end": "2025-12-12 02:59:00"
+  },
+  {
     "domain": "forgeandglory.com",
     "plugin_date_end": "2025-03-05 02:59:00"
   },
@@ -842,6 +846,10 @@
   {
     "domain": "la2-ares.ru",
     "plugin_date_end": "2025-04-14 02:59:00"
+  },
+  {
+    "domain": "la2-c4.com",
+    "plugin_date_end": "2025-11-12 02:59:00"
   },
   {
     "domain": "la2-world.sytes.net",
