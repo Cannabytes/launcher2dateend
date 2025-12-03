@@ -48,6 +48,10 @@
     "plugin_date_end": "2025-11-09 02:59:00"
   },
   {
+    "domain": "account.predator.ge",
+    "plugin_date_end": "2025-12-10 02:59:00"
+  },
+  {
     "domain": "acepvp.net",
     "plugin_date_end": "2025-09-13 02:59:00"
   },
@@ -270,6 +274,10 @@
   {
     "domain": "craft-pvp.ru",
     "plugin_date_end": "2024-10-20 12:00:00"
+  },
+  {
+    "domain": "crystal-core.pro",
+    "plugin_date_end": "2025-12-10 02:59:00"
   },
   {
     "domain": "cs20603.tw1.ru",
@@ -801,7 +809,7 @@
   },
   {
     "domain": "l2quantum.com",
-    "plugin_date_end": "2025-11-08 02:59:00"
+    "plugin_date_end": "2026-01-04 02:59:00"
   },
   {
     "domain": "l2rebels.fun",
