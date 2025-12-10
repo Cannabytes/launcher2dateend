@@ -404,8 +404,16 @@
     "plugin_date_end": "2025-11-03 02:59:00"
   },
   {
+    "domain": "evil-age.ws",
+    "plugin_date_end": "2027-12-31 02:59:00"
+  },
+  {
     "domain": "ezwin.pro",
     "plugin_date_end": "2025-04-27 02:59:00"
+  },
+  {
+    "domain": "f-zone.ru",
+    "plugin_date_end": "2025-12-18 02:59:00"
   },
   {
     "domain": "f91990hl.beget.tech",
@@ -1042,6 +1050,10 @@
   {
     "domain": "lineageii.eu",
     "plugin_date_end": "2025-02-26 02:59:00"
+  },
+  {
+    "domain": "lineager2.ru",
+    "plugin_date_end": "2025-12-18 02:59:00"
   },
   {
     "domain": "linvaris.com",
