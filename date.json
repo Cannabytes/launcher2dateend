@@ -360,16 +360,16 @@
     "plugin_date_end": "2025-09-13 02:59:00"
   },
   {
+    "domain": "emerland.online",
+    "plugin_date_end": "2025-12-13 02:59:00"
+  },
+  {
     "domain": "emerland.pw",
     "plugin_date_end": "2025-03-24 02:59:00"
   },
   {
     "domain": "emerland.su",
     "plugin_date_end": "2026-02-21 01:59:00"
-  },
-  {
-    "domain": "emerlend.online",
-    "plugin_date_end": "2025-12-13 02:59:00"
   },
   {
     "domain": "epic-world.net",
@@ -802,6 +802,10 @@
   {
     "domain": "l2nexus.net",
     "plugin_date_end": "2025-06-15 02:59:00"
+  },
+  {
+    "domain": "l2nova.net",
+    "plugin_date_end": "2025-12-19 02:59:00"
   },
   {
     "domain": "l2orc.com",
@@ -1509,6 +1513,6 @@
   },
   {
     "domain": "zonebattle.eu",
-    "plugin_date_end": "2025-12-06 02:59:00"
+    "plugin_date_end": "2026-01-12 02:59:00"
   }
 ]
