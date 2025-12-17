@@ -373,7 +373,7 @@
   },
   {
     "domain": "emerland.pw",
-    "plugin_date_end": "2025-03-24 02:59:00"
+    "plugin_date_end": "2026-01-18 02:59:00"
   },
   {
     "domain": "emerland.su",
@@ -721,7 +721,7 @@
   },
   {
     "domain": "l2gorynych.fun",
-    "plugin_date_end": "2025-12-23 02:59:00"
+    "plugin_date_end": "2026-01-16 02:59:00"
   },
   {
     "domain": "l2gracia.com",
@@ -1040,10 +1040,6 @@
     "plugin_date_end": "2025-04-16 02:59:00"
   },
   {
-    "domain": "lineage-game.club",
-    "plugin_date_end": "2025-12-23 01:59:00"
-  },
-  {
     "domain": "lineage2.blissnet.ru",
     "plugin_date_end": "2025-04-27 16:59:00"
   },
@@ -1058,6 +1054,10 @@
   {
     "domain": "lineage2raptronic.eu",
     "plugin_date_end": "2025-07-25 02:59:00"
+  },
+  {
+    "domain": "lineagegame.club",
+    "plugin_date_end": "2026-01-23 01:59:00"
   },
   {
     "domain": "lineageii.eu",
