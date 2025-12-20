@@ -240,6 +240,10 @@
     "plugin_date_end": "2025-01-03 02:59:00"
   },
   {
+    "domain": "cp.emerland.su",
+    "plugin_date_end": "2026-02-21 01:59:00"
+  },
+  {
     "domain": "cp.eternalland.club",
     "plugin_date_end": "2024-10-20 12:00:00"
   },
@@ -376,10 +380,6 @@
     "plugin_date_end": "2026-01-18 02:59:00"
   },
   {
-    "domain": "emerland.su",
-    "plugin_date_end": "2026-02-21 01:59:00"
-  },
-  {
     "domain": "epic-world.net",
     "plugin_date_end": "2025-06-09 02:59:00"
   },
@@ -390,6 +390,10 @@
   {
     "domain": "eraze.ru",
     "plugin_date_end": "2024-10-20 12:00:00"
+  },
+  {
+    "domain": "erinia.online",
+    "plugin_date_end": "2025-12-27 02:59:00"
   },
   {
     "domain": "esthus.su",
@@ -1201,7 +1205,7 @@
   },
   {
     "domain": "my.lastrei.com",
-    "plugin_date_end": "2025-12-20 02:59:00"
+    "plugin_date_end": "2026-01-21 02:59:00"
   },
   {
     "domain": "mysteria.pw",
