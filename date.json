@@ -84,6 +84,10 @@
     "plugin_date_end": "2024-10-20 12:00:00"
   },
   {
+    "domain": "anabius.su",
+    "plugin_date_end": "2025-12-28 02:59:00"
+  },
+  {
     "domain": "anderia.ru",
     "plugin_date_end": "2025-11-28 02:59:00"
   },
@@ -293,7 +297,7 @@
   },
   {
     "domain": "cursed-world.com",
-    "plugin_date_end": "2025-12-23 02:59:00"
+    "plugin_date_end": "2026-01-23 02:59:00"
   },
   {
     "domain": "cursed-world.pp.ua",
