@@ -201,7 +201,7 @@
   },
   {
     "domain": "castle-town.net",
-    "plugin_date_end": "2025-12-30 02:59:00"
+    "plugin_date_end": "2026-01-30 02:59:00"
   },
   {
     "domain": "cd67969.tw1.ru",
@@ -434,6 +434,10 @@
   {
     "domain": "f-zone.ru",
     "plugin_date_end": "2025-12-18 02:59:00"
+  },
+  {
+    "domain": "f.mitrael.com",
+    "plugin_date_end": "2026-01-01 02:59:00"
   },
   {
     "domain": "f91990hl.beget.tech",
