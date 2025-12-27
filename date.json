@@ -964,6 +964,10 @@
     "plugin_date_end": "2025-01-30 02:59:00"
   },
   {
+    "domain": "la2byfly.by",
+    "plugin_date_end": "2026-01-03 02:59:00"
+  },
+  {
     "domain": "la2db.online",
     "plugin_date_end": "2025-06-23 02:59:00"
   },
@@ -1236,7 +1240,7 @@
     "plugin_date_end": "2025-04-15 02:59:00"
   },
   {
-    "domain": "mysterious.pw",
+    "domain": "mysterious.su",
     "plugin_date_end": "2025-04-09 02:59:00"
   },
   {
@@ -1314,6 +1318,10 @@
   {
     "domain": "rampage.pw",
     "plugin_date_end": "2025-04-11 02:59:00"
+  },
+  {
+    "domain": "rampage.ws",
+    "plugin_date_end": "2026-01-04 02:59:00"
   },
   {
     "domain": "realpvp.top",
