@@ -100,6 +100,10 @@
     "plugin_date_end": "2024-10-20 12:00:00"
   },
   {
+    "domain": "arcana.l2sv.com",
+    "plugin_date_end": "2026-01-05 02:59:00"
+  },
+  {
     "domain": "aresland.pro",
     "plugin_date_end": "2027-01-01 12:00:00"
   },
@@ -1328,6 +1332,10 @@
     "plugin_date_end": "2026-01-04 02:59:00"
   },
   {
+    "domain": "re-zero.pro",
+    "plugin_date_end": "2026-01-05 02:59:00"
+  },
+  {
     "domain": "realpvp.top",
     "plugin_date_end": "2027-01-01 12:00:00"
   },
@@ -1400,6 +1408,10 @@
     "plugin_date_end": "2025-04-01 02:59:00"
   },
   {
+    "domain": "stars-age.com",
+    "plugin_date_end": "2026-01-05 02:59:00"
+  },
+  {
     "domain": "sw2.testsystem.cc",
     "plugin_date_end": "2025-08-31 02:59:00"
   },
@@ -1454,6 +1466,10 @@
   {
     "domain": "test.lineage2.kyiv.ua",
     "plugin_date_end": "2024-10-20 12:00:00"
+  },
+  {
+    "domain": "test.playorbis.net",
+    "plugin_date_end": "2026-01-04 02:59:00"
   },
   {
     "domain": "test.sphereweb.net",
