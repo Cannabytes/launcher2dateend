@@ -825,7 +825,7 @@
   },
   {
     "domain": "l2lord.com",
-    "plugin_date_end": "2025-10-25 02:59:00"
+    "plugin_date_end": "2026-02-15 02:59:00"
   },
   {
     "domain": "l2mayhem.online",
@@ -834,6 +834,10 @@
   {
     "domain": "l2mid.net",
     "plugin_date_end": "2027-01-01 12:00:00"
+  },
+  {
+    "domain": "l2mid.pro",
+    "plugin_date_end": "2026-01-18 02:59:00"
   },
   {
     "domain": "l2mir.com",
@@ -852,6 +856,10 @@
     "plugin_date_end": "2025-12-31 02:59:00"
   },
   {
+    "domain": "l2mythras.evilfox.cc",
+    "plugin_date_end": "2026-01-21 02:59:00"
+  },
+  {
     "domain": "l2mythras.fun",
     "plugin_date_end": "2024-11-21 02:59:00"
   },
@@ -862,6 +870,10 @@
   {
     "domain": "l2nexus.net",
     "plugin_date_end": "2025-06-15 02:59:00"
+  },
+  {
+    "domain": "l2noginsk.ru",
+    "plugin_date_end": "2026-01-20 02:59:00"
   },
   {
     "domain": "l2nova.net",
