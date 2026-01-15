@@ -272,6 +272,10 @@
     "plugin_date_end": "2025-01-03 02:59:00"
   },
   {
+    "domain": "cp.auren.world",
+    "plugin_date_end": "2026-01-23 02:59:00"
+  },
+  {
     "domain": "cp.emerland.su",
     "plugin_date_end": "2026-02-21 01:59:00"
   },
@@ -1017,7 +1021,7 @@
   },
   {
     "domain": "la2byfly.by",
-    "plugin_date_end": "2026-01-03 02:59:00"
+    "plugin_date_end": "2026-04-16 02:59:00"
   },
   {
     "domain": "la2db.online",
@@ -1514,6 +1518,10 @@
   {
     "domain": "test.l2mysticabyss.com",
     "plugin_date_end": "2024-10-29 02:59:00"
+  },
+  {
+    "domain": "test.l2play.su",
+    "plugin_date_end": "2026-01-23 02:59:00"
   },
   {
     "domain": "test.l2ws.ru",
