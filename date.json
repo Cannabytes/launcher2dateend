@@ -65,7 +65,7 @@
   },
   {
     "domain": "adensaga.com",
-    "plugin_date_end": "2025-09-25 02:59:00"
+    "plugin_date_end": "2026-04-22 02:59:00"
   },
   {
     "domain": "afxirno.cluster023.hosting.ovh.net",
@@ -266,6 +266,10 @@
   {
     "domain": "coldcom.isp21.admintest.pro",
     "plugin_date_end": "2024-11-23 02:59:00"
+  },
+  {
+    "domain": "corvetgame.ru",
+    "plugin_date_end": "2026-01-27 02:59:00"
   },
   {
     "domain": "cp.adensaga.com",
@@ -900,6 +904,10 @@
     "plugin_date_end": "0001-01-01 00:00:00"
   },
   {
+    "domain": "l2play.su",
+    "plugin_date_end": "2026-01-23 02:59:00"
+  },
+  {
     "domain": "l2pvp.fun",
     "plugin_date_end": "2025-07-22 02:59:00"
   },
@@ -1524,10 +1532,6 @@
     "plugin_date_end": "2024-10-29 02:59:00"
   },
   {
-    "domain": "test.l2play.su",
-    "plugin_date_end": "2026-01-23 02:59:00"
-  },
-  {
     "domain": "test.l2ws.ru",
     "plugin_date_end": "2024-10-20 12:00:00"
   },
@@ -1634,6 +1638,10 @@
   {
     "domain": "www.miamicomplex.com",
     "plugin_date_end": "2024-10-20 12:00:00"
+  },
+  {
+    "domain": "xn--2-7sbolggdr.xn--80ajiajodcg3d7b.xn--p1ai",
+    "plugin_date_end": "2026-01-27 02:59:00"
   },
   {
     "domain": "xn--80ajiffcp.xn--80ajiajodcg3d7b.xn--p1ai",
