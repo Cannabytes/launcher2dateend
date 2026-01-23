@@ -905,7 +905,7 @@
   },
   {
     "domain": "l2play.su",
-    "plugin_date_end": "2026-01-23 02:59:00"
+    "plugin_date_end": "2026-04-24 02:59:00"
   },
   {
     "domain": "l2pvp.fun",
@@ -1394,6 +1394,10 @@
   {
     "domain": "playervibe.pro",
     "plugin_date_end": "2025-01-16 02:59:00"
+  },
+  {
+    "domain": "prime-pvp.com",
+    "plugin_date_end": "2026-01-30 02:59:00"
   },
   {
     "domain": "raidforce.ws",
