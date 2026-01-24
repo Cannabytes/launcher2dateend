@@ -301,7 +301,7 @@
   },
   {
     "domain": "cp.l2kain.net",
-    "plugin_date_end": "2025-04-24 02:59:00"
+    "plugin_date_end": "2026-02-25 02:59:00"
   },
   {
     "domain": "cp.l2pvp.net",
@@ -998,6 +998,10 @@
   {
     "domain": "la2-c4.com",
     "plugin_date_end": "2025-11-12 02:59:00"
+  },
+  {
+    "domain": "la2-extrimal.ru",
+    "plugin_date_end": "2026-02-01 02:59:00"
   },
   {
     "domain": "la2-world.sytes.net",
