@@ -817,7 +817,7 @@
   },
   {
     "domain": "l2interlude.ru",
-    "plugin_date_end": "2025-06-20 02:59:00"
+    "plugin_date_end": "2026-03-05 02:59:00"
   },
   {
     "domain": "l2kaelion.com",
@@ -1530,6 +1530,10 @@
   {
     "domain": "test-launcher.melc.cc",
     "plugin_date_end": "2024-11-18 02:59:00"
+  },
+  {
+    "domain": "test.4bstudio.com.ua",
+    "plugin_date_end": "2026-02-11 02:59:00"
   },
   {
     "domain": "test.l2fun.space",
