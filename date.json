@@ -704,6 +704,10 @@
     "plugin_date_end": "2025-04-26 02:59:00"
   },
   {
+    "domain": "l2btg.com",
+    "plugin_date_end": "2026-02-18 02:59:00"
+  },
+  {
     "domain": "l2club.ovh",
     "plugin_date_end": "2025-01-06 02:59:00"
   },
@@ -1577,7 +1581,7 @@
   },
   {
     "domain": "test.playorbis.net",
-    "plugin_date_end": "2026-01-04 02:59:00"
+    "plugin_date_end": "2026-03-11 02:59:00"
   },
   {
     "domain": "test.sphereweb.net",
