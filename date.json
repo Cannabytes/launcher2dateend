@@ -949,7 +949,7 @@
   },
   {
     "domain": "l2savage.fun",
-    "plugin_date_end": "2025-11-27 02:59:00"
+    "plugin_date_end": "2026-03-12 02:59:00"
   },
   {
     "domain": "l2savage.pro",
@@ -1416,6 +1416,10 @@
     "plugin_date_end": "2025-01-16 02:59:00"
   },
   {
+    "domain": "playorbis.net",
+    "plugin_date_end": "2026-03-11 02:59:00"
+  },
+  {
     "domain": "prime-pvp.com",
     "plugin_date_end": "2026-01-30 02:59:00"
   },
@@ -1578,10 +1582,6 @@
   {
     "domain": "test.lineage2.kyiv.ua",
     "plugin_date_end": "2024-10-20 12:00:00"
-  },
-  {
-    "domain": "test.playorbis.net",
-    "plugin_date_end": "2026-03-11 02:59:00"
   },
   {
     "domain": "test.sphereweb.net",
