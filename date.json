@@ -464,6 +464,10 @@
     "plugin_date_end": "2027-12-31 02:59:00"
   },
   {
+    "domain": "exi-world.com",
+    "plugin_date_end": "2025-09-07 02:59:00"
+  },
+  {
     "domain": "ezwin.pro",
     "plugin_date_end": "2025-04-27 02:59:00"
   },
@@ -705,7 +709,7 @@
   },
   {
     "domain": "l2btg.com",
-    "plugin_date_end": "2026-02-18 02:59:00"
+    "plugin_date_end": "2026-05-18 02:59:00"
   },
   {
     "domain": "l2club.ovh",
@@ -932,6 +936,10 @@
     "plugin_date_end": "2026-02-05 02:59:00"
   },
   {
+    "domain": "l2r185.ru",
+    "plugin_date_end": "2026-02-21 02:59:00"
+  },
+  {
     "domain": "l2rebels.fun",
     "plugin_date_end": "2025-11-07 02:59:00"
   },
@@ -1106,10 +1114,6 @@
   {
     "domain": "la2server.ru",
     "plugin_date_end": "2026-02-23 02:59:00"
-  },
-  {
-    "domain": "la2star.fun",
-    "plugin_date_end": "2025-09-07 02:59:00"
   },
   {
     "domain": "la2vibe.ru",
