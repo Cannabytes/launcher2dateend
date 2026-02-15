@@ -768,6 +768,10 @@
     "plugin_date_end": "2025-10-01 02:59:00"
   },
   {
+    "domain": "l2fairy.eu",
+    "plugin_date_end": "2026-02-23 02:59:00"
+  },
+  {
     "domain": "l2feed.com",
     "plugin_date_end": "2025-10-22 02:59:00"
   },
@@ -789,7 +793,7 @@
   },
   {
     "domain": "l2gorynych.fun",
-    "plugin_date_end": "2026-02-17 02:59:00"
+    "plugin_date_end": "2026-03-17 02:59:00"
   },
   {
     "domain": "l2gracia.com",
@@ -1354,6 +1358,10 @@
   {
     "domain": "neo-interlude.eu",
     "plugin_date_end": "2025-02-09 02:59:00"
+  },
+  {
+    "domain": "new-l2.adenium.online",
+    "plugin_date_end": "2026-02-23 02:59:00"
   },
   {
     "domain": "newcp.multireborn.club",
