@@ -672,6 +672,10 @@
     "plugin_date_end": "2025-06-24 02:59:00"
   },
   {
+    "domain": "l2angel.com",
+    "plugin_date_end": "2026-03-05 02:59:00"
+  },
+  {
     "domain": "l2anworld.com",
     "plugin_date_end": "2025-05-21 02:59:00"
   },
@@ -1493,11 +1497,15 @@
   },
   {
     "domain": "rework.multeria.world",
-    "plugin_date_end": "2026-03-21 02:59:00"
+    "plugin_date_end": "2026-09-21 02:59:00"
   },
   {
     "domain": "risen-worlds.net",
     "plugin_date_end": "2025-03-26 02:59:00"
+  },
+  {
+    "domain": "ru.l2daysi.top",
+    "plugin_date_end": "2025-08-03 02:59:00"
   },
   {
     "domain": "sailren.com",
@@ -1574,10 +1582,6 @@
   {
     "domain": "test.l2fun.space",
     "plugin_date_end": "2025-04-12 02:59:00"
-  },
-  {
-    "domain": "test.l2history.pw",
-    "plugin_date_end": "2025-08-03 02:59:00"
   },
   {
     "domain": "test.l2legend.ru",
