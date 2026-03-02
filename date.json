@@ -441,7 +441,7 @@
   },
   {
     "domain": "erinia.online",
-    "plugin_date_end": "2026-03-02 02:59:00"
+    "plugin_date_end": "2026-06-03 02:59:00"
   },
   {
     "domain": "esthus.su",
@@ -1132,6 +1132,10 @@
     "plugin_date_end": "2026-02-23 02:59:00"
   },
   {
+    "domain": "la2stix.fun",
+    "plugin_date_end": "2025-04-27 16:59:00"
+  },
+  {
     "domain": "la2vibe.ru",
     "plugin_date_end": "2024-12-08 02:59:00"
   },
@@ -1178,10 +1182,6 @@
   {
     "domain": "lineage2.az",
     "plugin_date_end": "2026-03-08 02:59:00"
-  },
-  {
-    "domain": "lineage2.blissnet.ru",
-    "plugin_date_end": "2025-04-27 16:59:00"
   },
   {
     "domain": "lineage2.in.ua",
