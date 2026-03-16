@@ -112,6 +112,10 @@
     "plugin_date_end": "2027-01-01 12:00:00"
   },
   {
+    "domain": "ariawar.com",
+    "plugin_date_end": "2026-03-22 02:59:00"
+  },
+  {
     "domain": "arim.fun",
     "plugin_date_end": "2024-11-23 02:59:00"
   },
@@ -1406,6 +1410,10 @@
   {
     "domain": "oldgamee.ru",
     "plugin_date_end": "2025-12-03 02:59:00"
+  },
+  {
+    "domain": "oldshamon.fun",
+    "plugin_date_end": "2026-04-23 02:59:00"
   },
   {
     "domain": "onix.pw",
