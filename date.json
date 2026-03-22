@@ -345,7 +345,7 @@
   },
   {
     "domain": "cursed-world.com",
-    "plugin_date_end": "2026-03-24 02:59:00"
+    "plugin_date_end": "2026-04-24 02:59:00"
   },
   {
     "domain": "cursed-world.pp.ua",
@@ -382,6 +382,10 @@
   {
     "domain": "devils-phoenix.ru",
     "plugin_date_end": "2025-02-13 02:59:00"
+  },
+  {
+    "domain": "dillisa.com",
+    "plugin_date_end": "2026-03-30 02:59:00"
   },
   {
     "domain": "dion.town",
