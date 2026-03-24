@@ -845,7 +845,7 @@
   },
   {
     "domain": "l2infinity-pvp.com",
-    "plugin_date_end": "2026-03-26 02:59:00"
+    "plugin_date_end": "2026-04-26 02:59:00"
   },
   {
     "domain": "l2interlude.ru",
@@ -1634,6 +1634,10 @@
   {
     "domain": "test.lineage2.kyiv.ua",
     "plugin_date_end": "2024-10-20 12:00:00"
+  },
+  {
+    "domain": "test.radioex.in.ua",
+    "plugin_date_end": "2026-03-31 02:59:00"
   },
   {
     "domain": "test.sphereweb.net",
