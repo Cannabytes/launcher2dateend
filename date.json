@@ -704,10 +704,6 @@
     "plugin_date_end": "2024-10-20 12:00:00"
   },
   {
-    "domain": "l2arzis.top",
-    "plugin_date_end": "2026-03-23 02:59:00"
-  },
-  {
     "domain": "l2asgard.pp.ua",
     "plugin_date_end": "2025-10-14 02:59:00"
   },
@@ -1524,6 +1520,10 @@
     "plugin_date_end": "2025-03-26 02:59:00"
   },
   {
+    "domain": "ru.l2arzis.top",
+    "plugin_date_end": "2026-03-23 02:59:00"
+  },
+  {
     "domain": "ru.l2daysi.top",
     "plugin_date_end": "2025-08-03 02:59:00"
   },
@@ -1573,7 +1573,7 @@
   },
   {
     "domain": "stars-age.com",
-    "plugin_date_end": "2026-03-24 02:59:00"
+    "plugin_date_end": "2026-04-25 02:59:00"
   },
   {
     "domain": "sw2.testsystem.cc",
