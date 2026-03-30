@@ -229,7 +229,7 @@
   },
   {
     "domain": "castle-town.net",
-    "plugin_date_end": "2026-04-02 02:59:00"
+    "plugin_date_end": "2026-05-02 02:59:00"
   },
   {
     "domain": "cd67969.tw1.ru",
@@ -702,6 +702,10 @@
   {
     "domain": "l2arzis.ru",
     "plugin_date_end": "2024-10-20 12:00:00"
+  },
+  {
+    "domain": "l2arzis.top",
+    "plugin_date_end": "2026-04-25 02:59:00"
   },
   {
     "domain": "l2asgard.pp.ua",
@@ -1468,6 +1472,10 @@
     "plugin_date_end": "2026-01-30 02:59:00"
   },
   {
+    "domain": "prime-world.net",
+    "plugin_date_end": "2026-04-05 02:59:00"
+  },
+  {
     "domain": "radioex.in.ua",
     "plugin_date_end": "2026-04-03 02:59:00"
   },
@@ -1522,10 +1530,6 @@
   {
     "domain": "risen-worlds.net",
     "plugin_date_end": "2025-03-26 02:59:00"
-  },
-  {
-    "domain": "ru.l2arzis.top",
-    "plugin_date_end": "2026-04-25 02:59:00"
   },
   {
     "domain": "ru.l2daysi.top",
