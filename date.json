@@ -1112,6 +1112,10 @@
     "plugin_date_end": "2027-01-01 12:00:00"
   },
   {
+    "domain": "la2gve.online",
+    "plugin_date_end": "2026-04-08 02:59:00"
+  },
+  {
     "domain": "la2heaven.com",
     "plugin_date_end": "2024-12-06 02:59:00"
   },
@@ -1649,7 +1653,11 @@
   },
   {
     "domain": "test.sphereweb.net",
-    "plugin_date_end": "2026-03-27 02:59:00"
+    "plugin_date_end": "2026-05-02 02:59:00"
+  },
+  {
+    "domain": "testinterlude-world.ru.s12.hhos.net",
+    "plugin_date_end": "2026-04-07 02:59:00"
   },
   {
     "domain": "testl2site.s-host.net",
