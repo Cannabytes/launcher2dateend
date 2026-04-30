@@ -853,7 +853,7 @@
   },
   {
     "domain": "l2interlude.ru",
-    "plugin_date_end": "2026-03-05 02:59:00"
+    "plugin_date_end": "2026-05-31 02:59:00"
   },
   {
     "domain": "l2kaelion.com",
@@ -1284,6 +1284,10 @@
     "plugin_date_end": "2025-02-17 02:59:00"
   },
   {
+    "domain": "lk.l2interia.com",
+    "plugin_date_end": "2026-05-07 02:59:00"
+  },
+  {
     "domain": "lk.l2pride.fun",
     "plugin_date_end": "2025-01-01 12:00:00"
   },
@@ -1448,7 +1452,7 @@
     "plugin_date_end": "2025-02-27 02:59:00"
   },
   {
-    "domain": "oren.pw",
+    "domain": "oren.town",
     "plugin_date_end": "2026-05-01 02:59:00"
   },
   {
