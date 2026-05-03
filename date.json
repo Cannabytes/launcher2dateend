@@ -989,7 +989,7 @@
   },
   {
     "domain": "l2sirex.com",
-    "plugin_date_end": "2026-05-06 02:59:00"
+    "plugin_date_end": "2026-06-06 02:59:00"
   },
   {
     "domain": "l2sorcery.com",
@@ -1202,10 +1202,6 @@
   {
     "domain": "linderlend.com",
     "plugin_date_end": "2026-06-02 02:59:00"
-  },
-  {
-    "domain": "line-age.org",
-    "plugin_date_end": "2026-04-14 02:59:00"
   },
   {
     "domain": "lineage-energy.com",
@@ -1486,6 +1482,10 @@
   {
     "domain": "playervibe.pro",
     "plugin_date_end": "2025-01-16 02:59:00"
+  },
+  {
+    "domain": "playnovaera.com",
+    "plugin_date_end": "2026-04-14 02:59:00"
   },
   {
     "domain": "playorbis.net",
