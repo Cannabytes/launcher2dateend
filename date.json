@@ -760,6 +760,10 @@
     "plugin_date_end": "2025-04-16 23:59:59"
   },
   {
+    "domain": "l2dune.net",
+    "plugin_date_end": "2026-06-03 02:59:00"
+  },
+  {
     "domain": "l2elite.club",
     "plugin_date_end": "2025-09-09 02:59:00"
   },
@@ -1245,7 +1249,7 @@
   },
   {
     "domain": "lineagegame.club",
-    "plugin_date_end": "2026-05-02 02:59:00"
+    "plugin_date_end": "2026-08-28 02:59:00"
   },
   {
     "domain": "lineageii.eu",
