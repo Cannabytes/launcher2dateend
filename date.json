@@ -989,7 +989,7 @@
   },
   {
     "domain": "l2rehab.com",
-    "plugin_date_end": "2026-05-28 02:59:00"
+    "plugin_date_end": "2026-07-15 02:59:00"
   },
   {
     "domain": "l2rlx.ru",
@@ -1050,6 +1050,10 @@
   {
     "domain": "l2valmis.com",
     "plugin_date_end": "2025-04-09 02:59:00"
+  },
+  {
+    "domain": "l2war.pro",
+    "plugin_date_end": "2026-06-07 02:59:00"
   },
   {
     "domain": "l2warshal.net",
@@ -1482,10 +1486,6 @@
   {
     "domain": "onlywars.ru",
     "plugin_date_end": "2025-02-27 02:59:00"
-  },
-  {
-    "domain": "orbion.world",
-    "plugin_date_end": "2026-06-07 02:59:00"
   },
   {
     "domain": "oren.town",
