@@ -692,6 +692,10 @@
     "plugin_date_end": "2026-06-20 02:59:00"
   },
   {
+    "domain": "l2.playnovaera.com",
+    "plugin_date_end": "2026-04-14 02:59:00"
+  },
+  {
     "domain": "l2.pm",
     "plugin_date_end": "2026-06-24 02:59:00"
   },
@@ -1317,7 +1321,7 @@
   },
   {
     "domain": "lk.fluxzone-main.com",
-    "plugin_date_end": "2026-07-12 02:59:00"
+    "plugin_date_end": "2026-10-15 02:59:00"
   },
   {
     "domain": "lk.imbotxd67.net",
@@ -1530,10 +1534,6 @@
   {
     "domain": "playervibe.pro",
     "plugin_date_end": "2025-01-16 02:59:00"
-  },
-  {
-    "domain": "playnovaera.com",
-    "plugin_date_end": "2026-04-14 02:59:00"
   },
   {
     "domain": "playorbis.net",
