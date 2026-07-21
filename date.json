@@ -36,6 +36,10 @@
     "plugin_date_end": "2025-02-25 02:59:00"
   },
   {
+    "domain": "a-e.by",
+    "plugin_date_end": "2026-07-24 02:59:00"
+  },
+  {
     "domain": "acc.l2.pm",
     "plugin_date_end": "2024-12-17 02:59:00"
   },
@@ -62,6 +66,10 @@
   {
     "domain": "acm.l2gp.fun",
     "plugin_date_end": "2025-06-11 02:59:00"
+  },
+  {
+    "domain": "acp.goldwar.net",
+    "plugin_date_end": "2026-07-28 02:59:00"
   },
   {
     "domain": "adeloria.fun",
@@ -274,6 +282,10 @@
   {
     "domain": "classic-interlude-pvp.site",
     "plugin_date_end": "2024-11-07 02:59:00"
+  },
+  {
+    "domain": "clauonline.com",
+    "plugin_date_end": "2026-07-26 02:59:00"
   },
   {
     "domain": "clude.online",
@@ -924,6 +936,10 @@
     "plugin_date_end": "2025-01-23 02:59:00"
   },
   {
+    "domain": "l2mira.ru",
+    "plugin_date_end": "2026-07-28 02:59:00"
+  },
+  {
     "domain": "l2multiverse.com",
     "plugin_date_end": "2024-10-20 12:00:00"
   },
@@ -1545,7 +1561,7 @@
   },
   {
     "domain": "prime-world.net",
-    "plugin_date_end": "2026-06-29 02:59:00"
+    "plugin_date_end": "2026-08-22 02:59:00"
   },
   {
     "domain": "radioex.in.ua",
