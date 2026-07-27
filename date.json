@@ -296,6 +296,10 @@
     "plugin_date_end": "2024-11-23 02:59:00"
   },
   {
+    "domain": "communication-prospective-authentication-editor.trycloudflare.com",
+    "plugin_date_end": "2026-08-03 02:59:00"
+  },
+  {
     "domain": "corvetgame.ru",
     "plugin_date_end": "2026-01-27 02:59:00"
   },
@@ -937,7 +941,7 @@
   },
   {
     "domain": "l2mira.ru",
-    "plugin_date_end": "2026-07-28 02:59:00"
+    "plugin_date_end": "2026-08-28 02:59:00"
   },
   {
     "domain": "l2multiverse.com",
@@ -1122,6 +1126,10 @@
   {
     "domain": "la2.adensaga.com",
     "plugin_date_end": "2024-11-20 02:59:00"
+  },
+  {
+    "domain": "la2.beer",
+    "plugin_date_end": "2026-08-03 02:59:00"
   },
   {
     "domain": "la2.evilfox.cc",
