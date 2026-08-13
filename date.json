@@ -404,6 +404,10 @@
     "plugin_date_end": "2025-12-04 02:59:00"
   },
   {
+    "domain": "demo.pulsenet.ru",
+    "plugin_date_end": "2026-08-21 02:59:00"
+  },
+  {
     "domain": "devils-phoenix.ru",
     "plugin_date_end": "2025-02-13 02:59:00"
   },
@@ -1329,7 +1333,7 @@
   },
   {
     "domain": "lk.arcaide.fun",
-    "plugin_date_end": "2026-06-29 02:59:00"
+    "plugin_date_end": "2026-09-14 02:59:00"
   },
   {
     "domain": "lk.bestfire.online",
