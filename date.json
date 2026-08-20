@@ -481,7 +481,7 @@
   },
   {
     "domain": "erinia.online",
-    "plugin_date_end": "2027-01-02 02:59:00"
+    "plugin_date_end": "2026-08-07 02:59:00"
   },
   {
     "domain": "esthus.su",
@@ -593,7 +593,7 @@
   },
   {
     "domain": "hellsingworld.com",
-    "plugin_date_end": "2026-05-24 02:59:00"
+    "plugin_date_end": "2026-09-21 02:59:00"
   },
   {
     "domain": "hermescms.pp.ua",
@@ -1774,6 +1774,10 @@
   {
     "domain": "testinterlude-world.ru.s12.hhos.net",
     "plugin_date_end": "2026-04-07 02:59:00"
+  },
+  {
+    "domain": "testl2.yzz.me",
+    "plugin_date_end": "2026-08-27 02:59:00"
   },
   {
     "domain": "testl2site.s-host.net",
