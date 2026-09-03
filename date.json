@@ -1541,7 +1541,7 @@
   },
   {
     "domain": "oren.town",
-    "plugin_date_end": "2026-08-03 02:59:00"
+    "plugin_date_end": "2026-12-04 02:59:00"
   },
   {
     "domain": "ovillage.ru",
@@ -1734,6 +1734,10 @@
   {
     "domain": "test.l2legend.ru",
     "plugin_date_end": "2024-10-20 12:00:00"
+  },
+  {
+    "domain": "test.l2miniser.com",
+    "plugin_date_end": "2026-09-10 02:59:00"
   },
   {
     "domain": "test.l2mysticabyss.com",
