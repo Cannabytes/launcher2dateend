@@ -1068,10 +1068,6 @@
     "plugin_date_end": "2025-08-21 02:59:00"
   },
   {
-    "domain": "l2strong.ws",
-    "plugin_date_end": "2029-02-15 02:59:00"
-  },
-  {
     "domain": "l2templers.com",
     "plugin_date_end": "2025-10-30 02:59:00"
   },
@@ -1166,6 +1162,10 @@
   {
     "domain": "la2astri.ru",
     "plugin_date_end": "2024-10-20 12:00:00"
+  },
+  {
+    "domain": "la2aura.com",
+    "plugin_date_end": "2026-09-12 02:59:00"
   },
   {
     "domain": "la2bartz.com",
@@ -1501,7 +1501,7 @@
   },
   {
     "domain": "newcp.multireborn.club",
-    "plugin_date_end": "2026-09-05 02:59:00"
+    "plugin_date_end": "2027-03-06 02:59:00"
   },
   {
     "domain": "nikarina.com",
@@ -1526,6 +1526,10 @@
   {
     "domain": "oldgamee.ru",
     "plugin_date_end": "2025-12-03 02:59:00"
+  },
+  {
+    "domain": "oldlk.l2strong.ws",
+    "plugin_date_end": "2029-02-15 02:59:00"
   },
   {
     "domain": "oldshamon.fun",
@@ -1670,6 +1674,10 @@
   {
     "domain": "sansara.fun",
     "plugin_date_end": "2024-10-20 12:00:00"
+  },
+  {
+    "domain": "sfera.xmsn.ru",
+    "plugin_date_end": "2026-09-12 02:59:00"
   },
   {
     "domain": "shamon.ws",
