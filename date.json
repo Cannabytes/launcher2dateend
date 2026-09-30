@@ -77,7 +77,7 @@
   },
   {
     "domain": "adensaga.com",
-    "plugin_date_end": "2026-04-22 02:59:00"
+    "plugin_date_end": "2026-10-31 02:59:00"
   },
   {
     "domain": "afxirno.cluster023.hosting.ovh.net",
@@ -508,10 +508,6 @@
     "plugin_date_end": "2027-12-31 02:59:00"
   },
   {
-    "domain": "exi-world.com",
-    "plugin_date_end": "2025-09-07 02:59:00"
-  },
-  {
     "domain": "ezwin.pro",
     "plugin_date_end": "2025-04-27 02:59:00"
   },
@@ -936,6 +932,10 @@
     "plugin_date_end": "2024-10-20 12:00:00"
   },
   {
+    "domain": "l2master.ru",
+    "plugin_date_end": "2026-09-30 02:59:00"
+  },
+  {
     "domain": "l2mayhem.online",
     "plugin_date_end": "2026-01-02 02:59:00"
   },
@@ -1050,6 +1050,10 @@
   {
     "domain": "l2savage.pro",
     "plugin_date_end": "2024-10-20 12:00:00"
+  },
+  {
+    "domain": "l2scroll.net",
+    "plugin_date_end": "2026-09-30 02:59:00"
   },
   {
     "domain": "l2sirex.com",
@@ -1242,6 +1246,10 @@
   {
     "domain": "la2server.top",
     "plugin_date_end": "2026-08-22 02:59:00"
+  },
+  {
+    "domain": "la2star.fun",
+    "plugin_date_end": "2025-09-07 02:59:00"
   },
   {
     "domain": "la2stix.fun",
