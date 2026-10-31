@@ -720,6 +720,10 @@
     "plugin_date_end": "2026-11-28 02:59:00"
   },
   {
+    "domain": "l2.quest",
+    "plugin_date_end": "2025-08-03 02:59:00"
+  },
+  {
     "domain": "l2.reductor.site",
     "plugin_date_end": "2025-04-12 02:59:00"
   },
@@ -1321,7 +1325,7 @@
   },
   {
     "domain": "lineagegame.club",
-    "plugin_date_end": "2026-08-28 02:59:00"
+    "plugin_date_end": "2027-02-01 02:59:00"
   },
   {
     "domain": "lineageii.eu",
@@ -1652,10 +1656,6 @@
     "plugin_date_end": "2025-03-26 02:59:00"
   },
   {
-    "domain": "ru.l2daysi.top",
-    "plugin_date_end": "2025-08-03 02:59:00"
-  },
-  {
     "domain": "sailren.com",
     "plugin_date_end": "2024-10-20 12:00:00"
   },
@@ -1854,6 +1854,10 @@
   {
     "domain": "warofsouls.online",
     "plugin_date_end": "2026-11-03 02:59:00"
+  },
+  {
+    "domain": "warstalkergames.pt",
+    "plugin_date_end": "2026-11-04 02:59:00"
   },
   {
     "domain": "wellyssar.com",
