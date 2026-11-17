@@ -600,10 +600,6 @@
     "plugin_date_end": "2025-01-24 02:59:00"
   },
   {
-    "domain": "hellsingworld.com",
-    "plugin_date_end": "2026-09-21 02:59:00"
-  },
-  {
     "domain": "hermescms.pp.ua",
     "plugin_date_end": "2024-10-20 12:00:00"
   },
@@ -1056,6 +1052,10 @@
     "plugin_date_end": "2026-05-21 02:59:00"
   },
   {
+    "domain": "l2reborn.online",
+    "plugin_date_end": "2026-11-25 02:59:00"
+  },
+  {
     "domain": "l2rehab.com",
     "plugin_date_end": "2026-12-04 02:59:00"
   },
@@ -1140,6 +1140,10 @@
     "plugin_date_end": "2025-01-17 02:59:00"
   },
   {
+    "domain": "l2wos.com",
+    "plugin_date_end": "2026-09-21 02:59:00"
+  },
+  {
     "domain": "l2ws.ru",
     "plugin_date_end": "2024-10-20 12:00:00"
   },
@@ -1201,7 +1205,7 @@
   },
   {
     "domain": "la2byfly.by",
-    "plugin_date_end": "2026-11-19 02:59:00"
+    "plugin_date_end": "2027-02-19 02:59:00"
   },
   {
     "domain": "la2db.online",
